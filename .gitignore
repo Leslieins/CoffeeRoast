@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Your photos and generated results (keep the repo small and private stuff out)
+*.jpg
+*.jpeg
+*.png
+*.heic
+*_beans.csv
+!docs/*.png
